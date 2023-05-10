@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @metazen11
-- 👀 I’m interested in crypto, machine learning, ai, data viz, and bi.
-- 🌱 I’m currently learning python, solidity, javascript.
-- 💞️ I’m looking to collaborate on implementing crypto bot trading projects.
+- 👀 I’m interested in machine learning, ai, data viz, bi and used to tinker with crypto.
+- 🌱 I’m currently working with python, java, javscript, sql and tinker with a few other technologies.
+- 💞️ I’m currently working on my POD project on the site: https://alchemystics.org .
 - 📫 How to reach me metazen@alachemystics.org
 
 <!---
